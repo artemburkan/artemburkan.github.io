@@ -1,0 +1,62 @@
+{
+  "general": {
+    "donation": "Download CV",
+    "socialNetworks": "Social Networks"
+  },
+  "socialNetworks": {
+    "linkedIn": "Work profile",
+    "twitch": "Live streams",
+    "boosty": "Development blog"
+  },
+  "header": {
+    "main": "Main",
+    "experience": "Experience"
+  },
+  "profileBar": {
+    "name": "Artyom Burkan",
+    "status": "Front-end developer, streamer, photographer",
+    "location": "Moscow, Russia"
+  },
+  "aboutMe": {
+    "header": "About Me",
+    "body": {
+      "experience": "I'm a software engineer with experience in development web applications based on JavaScript technologies. I've been working as a front-end developer since 2017.",
+      "streaming": "In the evenings I have live streams sometimes.",
+      "photo": "I take high-quality photos at a good level."
+    }
+  },
+  "workExperience": {
+    "header": "Work Experience",
+    "companies": "I've worked in small and big companies. The biggest companies are <yandexLink>Yandex Market</yandexLink> and <epamLink>EPAM</epamLink> in my career.",
+    "shortInfo": "I've developed features for B2B and B2C user interfaces in web applications. I also solved a lot of small tasks. Prepared a build of projects, wrote unit tests and fixed project bugs etc.",
+    "moreInfo": "More info in my LinkedIn <linkedInLink>account</linkedInLink>."
+  },
+  "experience": {
+    "header": "Work experience: 8 years",
+    "companies": {
+      "epam": {
+        "title": "Senior front-end developer",
+        "description": "Developed and integrated B2B, B2C user interface as a part of a large banking system via ReactJS and others front-end libraries. Realized UI to apply application for purchase and redeem promissory notes by client. Realized UI to check application or promissory notes for execute by employee. Realized many forms for generate PDF documents. Added unit-tests. Updated legacy code.",
+        "date": {
+          "begin": "June 2020",
+          "end": "May 2023"
+        }
+      },
+      "yandex": {
+        "title": "Middle front-end developer",
+        "description": "Developed B2C user interface for \"My Orders\" page on marketplace site. Rewritten legacy code of Yandex Framework to ReactJS and other front-end libraries according to the Yandex requirements. Updated legacy CSS.",
+        "date": {
+          "begin": "June 2019",
+          "end": "May 2020"
+        }
+      }
+    }
+  },
+  "keySkills": {
+    "header": "Key Skills and Tools"
+  },
+
+  "footer": {
+    "creator": "Created by Artyom Burkan"
+  }
+}
